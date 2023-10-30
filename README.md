@@ -24,7 +24,7 @@
 Para executar o projeto:
 
 1. No root do projeto duplique o arquivo `.env.example` e renomeie para `.env`
-1. Substitua <username> e <password> com suas credenciais
+1. Substitua `<username>` e `<password>` com suas credenciais
 1. Execute o comando `yarn`
 1. Execute o comando `yarn start`
 1. Importe a [collection](./collection/SGBD%20-%20Atividade%208.postman_collection.json) no seu Postman
